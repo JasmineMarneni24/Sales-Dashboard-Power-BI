@@ -1,5 +1,3 @@
-# Sales-Dashboard-Power-BI
-Sales analysis dashboard built using Power BI
 # Sales Dashboard - Power BI
 
 Interactive sales dashboard built in Power BI to analyse sales performance.
@@ -7,7 +5,7 @@ Interactive sales dashboard built in Power BI to analyse sales performance.
 ## Dashboard
 
 
-![Dashboard](sales%20dashboard.png)
+![Dashboard](sales.png)
 
 
 
